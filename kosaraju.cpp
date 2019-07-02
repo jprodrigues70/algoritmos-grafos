@@ -114,3 +114,4 @@ int main() {
 4º Organize os vértices em pós-ordem com base no tempo de fechamento
 5º Percorra G com uma DFS de tal forma que os vértices sejam visitados na ordem inversa da organização em pós-ordem, e para todo vértice w não rotulado ao alcance de v seja atribuído um rótulo k.
 6º A quantidade i de rótulos diferentes é a quantidade de componentes conexos. 
+**/
